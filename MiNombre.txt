@@ -1,2 +1,0 @@
-Mi nombre = Cesar Roque
-Carnet= 00015319
