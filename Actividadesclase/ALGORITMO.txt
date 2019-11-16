@@ -1,0 +1,36 @@
+//primer algoritmo
+
+elemento=3
+valid:true
+s=4
+while(Recorrer Pila) {
+    if(elemento<=4 )
+        i= pop(s,4)
+        break
+else{
+    if(elemento>=2)
+        k= pop(s,3
+        break;
+}
+ //segundo algoritmo
+elemento=3
+s=4
+while(Recorrer Pila) {
+    if(elemento<=4 )
+        i= pop(s,4)
+        k= pop(s,3)
+        push(i, 4) 
+        break
+  else if (elemento==4) {
+        if(empty(s)) {
+            valid = false
+            break
+        }else{
+            i = pop(s,3)
+            if(i=(s,2)) {
+                valid = false
+                break
+            }
+        }
+    }
+}
